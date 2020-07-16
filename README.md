@@ -27,8 +27,6 @@ I am a 20 yrs. old Data Scientist and a Python Programmer. I am a Poet, a Data A
 ## How to reach me📲
 📱 [LinkedIn](https://www.linkedin.com/in/simran2104)
 
-🔗[Portfolio](https://simran2104.github.io/Simran_Portfolio/)
-
 📩 [Email](mailto:simrandhiman5808.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 📲 [Twitter](https://twitter.com/simran_2104)
