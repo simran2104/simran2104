@@ -30,3 +30,5 @@ I am a 20 yrs. old Data Scientist and a Python Programmer. I am a Poet, a Data A
 📩 [Email](mailto:simrandhiman5808.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 📲 [Twitter](https://twitter.com/simran_2104)
+
+[![Simran's github stats](https://github-readme-stats.vercel.app/api?username=simran2104)](https://github.com/anuraghazra/github-readme-stats)
