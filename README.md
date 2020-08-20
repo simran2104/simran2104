@@ -1,7 +1,42 @@
-# Hi there👋, Welcome!!
+<h1 align='center'>
+  Hi there 👋 I'm Simran 👩💻
+</h1>
 
-I am a 20 yrs. old Data Scientist and a Python Programmer. I am a Poet, a Data Analyst, a Data Scientist, GSSOC's 20 scholar and I have mentored many students in the field of "Python Programming" under Uplift Project organised by GirlScript Foundation. Presently pursuing my Bachelor's in Computer Science from UIET, KUK.  I am a fast-learner, a passionate competitive coder and ML-Developer. I also love to experiment with new technologies and I am open for corporate opportuinites!
-.
+<h4 align='center'>
+  A Data Scientist and A Python Programmer.
+</h4>
+
+<p align='center'>
+  
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/simran2104/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/simrandhiman2104">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/simran_2104">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  
+</p>
+
+<p align='center'>
+  I am a 20 yrs. old Data Scientist and a Python Programmer. I am a Poet, a Data Analyst, a Data Scientist, GSSOC's 20 scholar and I have mentored many students in the field of "Python Programming" under Uplift Project organised by GirlScript Foundation. Presently pursuing my Bachelor's in Computer Science from UIET, KUK.  I am a fast-learner, a passionate competitive coder and ML-Developer. I also love to experiment with new technologies and I am open for corporate opportuinites!
+<p>
+
+
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simran2104&hide=issues&count_private=true&show_icons=true&theme=dark" width="350"></a>
+</p>
+
+
+
+
 
 
 ## Skills🥇
@@ -24,11 +59,7 @@ I am a 20 yrs. old Data Scientist and a Python Programmer. I am a Poet, a Data A
 
 👉 Django
 
-## How to reach me📲
-📱 [LinkedIn](https://www.linkedin.com/in/simran2104)
 
-📩 [Email](mailto:simrandhiman5808.com?subject=[GitHub]%20Source%20Han%20Sans)
-
-📲 [Twitter](https://twitter.com/simran_2104)
-
-[![Simran's github stats](https://github-readme-stats.vercel.app/api?username=simran2104)](https://github.com/anuraghazra/github-readme-stats)
+<h4 align='center'>
+  📫 How to reach me: <a href='mailto:simrandhiman5808@gmail.com'>simrandhiman5808@gmail.com</a>
+</h4>
