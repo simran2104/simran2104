@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align='center'>
-  A Data Scientist and A Python Programmer.
+  ML Enthusiast | Python Programmer | Web Developer | Competitive Programmer
 </h4>
 
 <p align='center'>
@@ -23,41 +23,17 @@
   
   
 </p>
-
 <p align='center'>
-  I am a 20 yrs. old Data Scientist and a Python Programmer. I am a Poet, a Data Analyst, a Data Scientist, GSSOC's 20 scholar and I have mentored many students in the field of "Python Programming" under Uplift Project organised by GirlScript Foundation. Presently pursuing my Bachelor's in Computer Science from UIET, KUK.  I am a fast-learner, a passionate competitive coder and ML-Developer. I also love to experiment with new technologies and I am open for corporate opportuinites!
-<p>
-
-
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simran2104&hide=issues&count_private=true&show_icons=true&theme=dark" width="350""></a>
+  I am <b>Simran</b>, a Python Programmer, ML-Developer and a Passionate Coder. Presently pursuing my Bachelor's in Computer Science Engineering from UIET, KUK. I am a fast-learner, a passionate Competitive Coder and Web-Developer. I have mentored many students in the field of "Python Programming" under Uplift Project organised by GirlScript Foundation. I am Technical Lead at DSC, UIET, KUK and Student Coordinator at StartUp Champs at UIET, KUK. I love to experiment with new technologies and I am open for corporate  Opportunities!
 </p>
 
 
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simran2104&hide=issues&count_private=true&show_icons=false&theme=dark" width="350""></a>
+</p>
 
 
-
-## Skills🥇
-#### LANGUAGES: 
-• Python3 • C++ •˙HTML • CSS • Javascript • C • MySQL
-#### DATA SCIENCE: 
-• Machine Learning • Data Analysis • Data Visualization • Predictive Modelling
-#### PYTHON LIBRARIES:
-• Numpy • Pandas • Scipy • Sklearn • Matplotlib • OpenCV
-#### CONCEPTS: 
-• Object-oriented programming • Data Structures and Algorithms • Competitive Programming
-
-
-## Goals for 2020🎯
-👉 Deep Learning
-
-👉 Computer Visualisation
-
-👉 ML Projects
-
-👉 Django
 
 
 <h4 align='center'>
