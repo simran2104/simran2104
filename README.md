@@ -24,7 +24,7 @@
   
 </p>
 <p align='center'>
-  I am <b>Simran</b>, a Python Programmer, ML-Developer and a Passionate Coder. Presently pursuing my Bachelor's in Computer Science Engineering from UIET, KUK. I am a fast-learner, a passionate Competitive Coder and Web-Developer. I have mentored many students in the field of "Python Programming" under Uplift Project organised by GirlScript Foundation. I am Technical Lead at DSC, UIET, KUK and Student Coordinator at StartUp Champs at UIET, KUK. I love to experiment with new technologies and I am open for corporate  Opportunities!
+  I am <b>Simran</b>, a Python Programmer, ML-Developer and a Passionate Coder. Presently pursuing my Bachelor's in Computer Science Engineering from UIET, KUK. I am a fast-learner, a passionate Competitive Coder and Web-Developer. I have mentored many students in the field of "Python Programming" under Uplift Project organised by GirlScript Foundation. I am Technical Lead at <b>DSC, UIET, KUK</b> and Student Coordinator at StartUp Champs at UIET, KUK. I love to experiment with new technologies and I am open for corporate  Opportunities!
 </p>
 
 
