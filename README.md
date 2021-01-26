@@ -30,7 +30,7 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simran2104&hide=issues&count_private=true&show_icons=true&theme=dark" width="350""></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simran2104&show=issues&count_private=true&show_icons=true&theme=dark" width="350""></a>
 </p>
 
 
