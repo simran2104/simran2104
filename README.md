@@ -19,18 +19,11 @@
     </p>
 
 
-
-<br>
-
-
-
 ## 👩 About me:
 <p align='center'>
   I am <b>Simran</b>, a Python Programmer, ML-Developer and a Passionate Coder. Presently pursuing my Bachelor's in Computer Science Engineering from UIET, KUK. I am a fast-learner, a passionate Competitive Coder and Web-Developer. I have mentored many students in the field of "Python Programming" under Uplift Project organised by GirlScript Foundation. I am Technical Lead at <b>DSC, UIET, KUK</b> and Student Coordinator at StartUp Champs at UIET, KUK. I love to experiment with new technologies and I am open for corporate  Opportunities!
-</p>
+</p><br>
 
-
-<br>
 ## 🙋‍♂️ Connect with me:
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
@@ -38,18 +31,16 @@
   <a href="https://twitter.com/simran_2104"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://twitter.com/simran_2104"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   
-</p>
+</p><br>
 
-<br>
 ## 🔥 Streak stats:
 
 <p align="center">
   <a href="https://github.com/simran2104/github-readme-streak-stats">
     <img  alt="simran2104's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=simran2104&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
-</p>
+</p><br>
 
-<br>
 ## 👨‍💻 Languages and tools:
 
 <p align="center">
@@ -92,9 +83,7 @@
       
       
  
-</p>
-
-<br>
+</p><br>
 
 ## 📊 Github stats
 
