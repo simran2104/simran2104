@@ -29,8 +29,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/simran2104/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/simran_2104"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://twitter.com/simran_2104"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  
+  <a href="mailto:simrandhiman5808@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/-gmail-f53c20?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/simran_2104"><img alt="facebook" title="facebook" src="https://img.shields.io/badge/-facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/simran_2104"><img alt="codechef" title="codechef" src="https://img.shields.io/badge/-codechef-935F31?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/simran2104"><img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/-hackerrank-0ec950?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p><br>
 
 ## 🔥 Streak stats:
