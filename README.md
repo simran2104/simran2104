@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
   Welcome to Simran Dhiman's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 <p align="center">
   <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Python%20Developer%20and%20ML%20Enthusiast;Self-taught%20Competitive%20Programmer;and%20Full-Stack%20Web%20Developer&center=true&width=380&height=50">
@@ -20,7 +20,7 @@
 
 
 
-
+<br>
 
 
 
@@ -30,7 +30,7 @@
 </p>
 
 
-
+<br>
 ## 🙋‍♂️ Connect with me:
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
@@ -40,7 +40,7 @@
   
 </p>
 
-
+<br>
 ## 🔥 Streak stats:
 
 <p align="center">
@@ -49,7 +49,7 @@
   </a>
 </p>
 
-
+<br>
 ## 👨‍💻 Languages and tools:
 
 <p align="center">
@@ -94,7 +94,7 @@
  
 </p>
 
-
+<br>
 
 ## 📊 Github stats
 
@@ -104,5 +104,5 @@
   <br/>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simran2104&hide=issues&count_private=true&show_icons=true&theme=dark" width="350""></a>
 </details>
-
+<br>
 <a href="https://github.com/simran2104/github-readme-activity-graph"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simran2104&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
