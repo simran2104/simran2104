@@ -2,9 +2,11 @@
   Welcome to Simran Dhiman's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<h4 align='center'>
-  ML Enthusiast | Python Programmer | Web Developer | Competitive Programmer
-</h4>
+
+<p align="center">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Python%20Developer%20and%20ML%20Enthusiast;Self-taught%20Competitive%20Programmer;and%20Full-Stack%20Web%20Developer&center=true&width=380&height=50">
+</p>
+
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
