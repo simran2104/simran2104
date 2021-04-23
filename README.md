@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Python%20Developer%20and%20ML%20Enthusiast;Self-taught%20Competitive%20Programmer;and%20Full-Stack%20Web%20Developer&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer%20and%20ML%20Enthusiast;Self-taught%20Competitive%20Programmer;and%20Full-Stack%20Web%20Developer&center=true&width=500&height=50">
 </p>
 
 
