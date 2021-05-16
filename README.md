@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer%20and%20ML%20Enthusiast;Self-taught%20Competitive%20Programmer;and%20Full-Stack%20Web%20Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50">
 </p>
 
 
@@ -93,7 +93,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simran2104&hide=issues&count_private=true&show_icons=true&theme=dark" width="350""></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simran2104&hide=issues&count_private=true&show_icons=true&theme=dark" width="350""></a>
 </details>
 <br>
+
 <a href="https://github.com/simran2104/github-readme-activity-graph"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simran2104&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
