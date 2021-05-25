@@ -98,4 +98,4 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 </details>
 <br>
 
-<a href="https://github.com/simran2104/github-readme-activity-graph"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simran2104&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simran2104&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
