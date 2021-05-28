@@ -39,7 +39,7 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 ## 🔥 Streak stats:
 
 <p align="center">
-  <a href="https://github.com/simran2104/github-readme-streak-stats">
+  <a href="#">
     <img  alt="simran2104's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=simran2104&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
 </p><br>
