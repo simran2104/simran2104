@@ -21,7 +21,7 @@
 
 ## 👩 About me:
 <p align='center'>
-  I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Machine Learning. I have experience in Algorithms, Data Structures, web developement, etc. As a natural born go-getter, my passion has continuously driven me to expand my knowledge, experience, and relationships. With a strong background and diverse skill set, I’m confident in the creative ideas and successful solutions I bring to the table. I am a standards-driven person who always takes responsibility for my actions. I love to experiment with new technologies.
+  I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Machine Learning. I have experience in Algorithms, Data Structures, Web Development, etc. As a natural born go-getter, my passion has continuously driven me to expand my knowledge, experience, and relationships. With a strong background and diverse skill set, I’m confident in the creative ideas and successful solutions I bring to the table. I am a standards-driven person who always takes responsibility for my actions. I love to experiment with new technologies.
 Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems. Subtract work from the day, I am always down for a chat over a cup of coffee or binge-watching any series on YouTube.
 </p><br>
 
