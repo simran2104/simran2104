@@ -1,6 +1,6 @@
 <h2 align="center">
-  Welcome to Simran Dhiman's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I a'Simran!
+   
 </h2>
 
 <p align="center">
