@@ -28,7 +28,7 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 <h2>🥇 Specialised in:</h2>
 <p>🔸 Full Stack Python Development
   <br>🔸 Machine Learning
-  <br>🔸 Web Development
+  <br>🔸 Django Development
 <p>
 <br>
 <h2> 🛠 &nbsp;My Tech Stack</h2>
