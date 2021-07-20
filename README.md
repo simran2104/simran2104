@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Simran!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="http://simrandhiman.me/">Simran</a>!
    
 </h2>
 
@@ -21,11 +21,53 @@
 
 ## 👩 About me:
 <p align='center'>
-  I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Machine Learning. I have experience in Algorithms, Data Structures, Web Development, etc. As a natural born go-getter, my passion has continuously driven me to expand my knowledge, experience, and relationships. With a strong background and diverse skill set, I’m confident in the creative ideas and successful solutions I bring to the table. I am a standards-driven person who always takes responsibility for my actions. I love to experiment with new technologies.
-Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems. Subtract work from the day, I am always down for a chat over a cup of coffee or binge-watching any series on YouTube.
+  I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Machine Learning. I have experience in Algorithms, Data Structures, Web Development, etc. With a strong background and diverse skill set, I’m confident in the creative ideas and successful solutions I bring to the table. I love to experiment with new technologies.  Subtract work from the day, I am always down for a chat over a cup of coffee or binge-watching any series on YouTube.
+Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
 </p><br>
 
-## 🙋‍♂️ Connect with me:
+<h2>🥇 Specialised in:</h2>
+<p>🔸 Full Stack Python Development
+  <br>🔸 Machine Learning
+  <br>🔸 Web Development
+<p>
+<br>
+<h2> 🛠 &nbsp;My Tech Stack</h2>
+
+- Programming languages : <br />
+  [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://img.shields.io/badge/Java-2d81ad?style=flat&logo=java&logoColor=white)](https://www.java.com/en/) [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
+  
+- Frontend : <br />
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)  [![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+  
+- Backend : <br />
+  [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Django](https://img.shields.io/badge/Django-0b4523?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com) 
+  
+- OS,IDE & Tools : <br />
+  [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-grey?style=flat&logo=sublime-text&logoColor=eb9009)](https://www.sublimetext.com/3) [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-grey?style=flat&logo=Jupyter&logoColor=orange)](https://jupyter.org/) [![Xampp](https://img.shields.io/badge/Xampp-orange?style=flat&logo=Xampp&logoColor=white)](https://www.apachefriends.org/index.html) [![Windows](https://img.shields.io/badge/Windows-blue?style=flat&logo=Windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
+<br>
+
+
+<h2>ℹ️ &nbsp;Github Info</h2>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=simran2104&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="simran2104" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=simran2104&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="simran2104" align = "center"/></p>
+</details>
+<details>
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=simran2104&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="simran2104" /></p>
+</details>
+<details>
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simran2104&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+</details>
+<details>   
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simran2104&margin-w=5&theme=dark" alt="simran2104" /></a> </p>
+</details>
+<br>
+ 
+ ## 🙋‍♂️ Connect with me:
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href="https://www.linkedin.com/in/simran2104/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -33,68 +75,10 @@ Currently I am looking forward to opportunities which allow me to apply my probl
   <a href="mailto:simrandhiman5808@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/-gmail-f53c20?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/simran_2104"><img alt="codechef" title="codechef" src="https://img.shields.io/badge/-codechef-935F31?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/simran2104"><img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/-hackerrank-0ec950?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p><br>
+</p>
 
-## 🔥 Streak stats:
-
+ <hr>
 <p align="center">
-  <a href="#">
-    <img  alt="simran2104's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=simran2104&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
-  </a>
-</p><br>
-
-## 👨‍💻 Languages and tools:
-
-<p align="center">
-  <a href="#">
-    <img alt="Python" title="Python" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-  
-  <a href="#">
-    <img alt="C++" title="C++" height="36px"
-      src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
-      
- <a href="#">
-    <img alt="HTML5" title="HTML5" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
-  <a href="#">
-    <img alt="CSS3" title="CSS3" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
-      
-  <a href="#">
-    <img alt="JavaScript" title="JavaScript" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
- 
-  <a href="#">
-    <img alt="Java" title="Java" height="36px"
-      src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
-      
-  <a href="#">
-    <img alt="SQL" title="SQL" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>
-  <a href="#"><img alt="Sheets" title="Sheets" height="36px" 
-      src="https://img.icons8.com/color/48/000000/google-sheets.png"></a>
-  <a href="#"><img alt="GitHub" title="GitHub" height="36px"
-      src="https://i.imgur.com/DZgetVv.png"></a>
-  <a href="#"><img alt="sublime-text" title="sublime-text" height="36px"
-      src="https://img.icons8.com/fluent/48/000000/sublime-text.png"></a>
-  <a href="#"><img alt="pycharm" title="Pycharm" height="36px"
-      src="https://img.icons8.com/color/48/000000/pycharm.png"></a>
-  <a href="#"><img alt="spyder-ide" title="spyder-ide" height="36px"
-      src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"></a>
-  <a href="#"><img alt="visual-code" title="visual-code" height="36px"
-      src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></a>
-  <a href="#"><img alt="firebase" title="firebase" height="36px"
-      src="https://img.icons8.com/color/48/000000/firebase.png"></a>
-      
-      
-      
- 
-</p><br>
-
-## 📊 Github stats
-
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simran2104&hide=issues&count_private=true&show_icons=true&theme=dark" width="350""></a>
-</details>
-<br>
-
-<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simran2104&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
