@@ -63,7 +63,7 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simran2104&margin-w=5&theme=dark" alt="simran2104" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simran2104&margin-w=5&theme=radical" alt="simran2104" /></a> </p>
 </details>
 <br>
  
