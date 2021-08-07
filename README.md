@@ -13,7 +13,7 @@
   <a href="https://twitter.com/simran_2104">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/simran_2104?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
     <a href="#">
-    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&label=github-profile-views"/></a>
+    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a>
   <a href="https://github.com/simran2104">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/simran2104?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     </p>
@@ -21,7 +21,7 @@
 
 ## 👩 About me:
 <p>
-  I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Machine Learning. I have experience in Algorithms, Data Structures, Web Development, etc. With a strong background and diverse skill set, I’m confident in the creative ideas and successful solutions I bring to the table. I love to experiment with new technologies.  Subtract work from the day, I am always down for a chat over a cup of coffee or binge-watching any series on YouTube.<br>
+  I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Machine Learning. I have experience in Algorithms, Data Structures, Web Development, etc. I love to experiment with new technologies. Subtract work from the day, I am always down for a chat over a cup of coffee or binge-watching any series on YouTube.<br>
 Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
 </p><br>
 
@@ -42,12 +42,16 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 - Backend : <br />
   [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Django](https://img.shields.io/badge/Django-0b4523?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com) 
   
-- OS,IDE & Tools : <br />
+- OS, IDE & Tools : <br />
   [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-grey?style=flat&logo=sublime-text&logoColor=eb9009)](https://www.sublimetext.com/3) [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-grey?style=flat&logo=Jupyter&logoColor=orange)](https://jupyter.org/) [![Xampp](https://img.shields.io/badge/Xampp-orange?style=flat&logo=Xampp&logoColor=white)](https://www.apachefriends.org/index.html) [![Windows](https://img.shields.io/badge/Windows-blue?style=flat&logo=Windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
 <br>
 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
+<details>	
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran2104&theme=github_dark" alt="simran2104" align = "center"/></p>
+</details>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=simran2104&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="simran2104" align = "center"/>
