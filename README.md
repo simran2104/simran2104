@@ -5,25 +5,23 @@
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-  <a href="https://twitter.com/simran_2104">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/simran_2104?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-    <a href="#">
     <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a>
-  <a href="https://github.com/simran2104">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/simran2104?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     </p>
 
 
 ## 👩 About me:
 <p>
-  I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Machine Learning. I have experience in Algorithms, Data Structures, Web Development, etc. I love to experiment with new technologies. Subtract work from the day, I am always down for a chat over a cup of coffee or binge-watching any series on YouTube.<br>
-Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
+  I am a fast learner and a passionate competitive coder with expertise in Python development and a keen interest in Machine Learning. My experience spans Algorithms, Data Structures, Web Development, and more. As a natural go-getter, my drive to learn and adapt has enabled me to expand my knowledge, gain diverse experiences, and build meaningful connections.
+<br>
+With a solid technical foundation and a versatile skill set, I am confident in my ability to deliver innovative ideas and effective solutions. I hold myself to high standards, taking full responsibility for my actions and striving for excellence in every task. I enjoy experimenting with new technologies and exploring ways to push boundaries.
+<br>
+I am currently seeking opportunities where I can apply my problem-solving skills and logical thinking to tackle real-world challenges. Outside of work, I enjoy engaging in meaningful conversations over coffee or relaxing with a good series on YouTube.
 </p><br>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 Full Stack Python Development
+<p>🔸 Full Stack Development - JavaScript(Node.js) & Python(Django)
   <br>🔸 Machine Learning
-  <br>🔸 Django Development
+  <br>🔸 Rust Development
 <p>
 <br>
 <h2> 🛠 &nbsp;My Tech Stack</h2>
