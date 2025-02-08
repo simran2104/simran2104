@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50">
-</p>
-
-
-<p align="center">
+<h1 align="center">Simran Dhiman <br>
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a>
-    </p>
+    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a></h1>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50">
+</p> -->
 
 
 ## 👩 About me:
@@ -27,16 +24,16 @@ I am currently seeking opportunities where I can apply my problem-solving skills
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 - Programming languages : <br />
-  [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://img.shields.io/badge/Java-2d81ad?style=flat&logo=java&logoColor=white)](https://www.java.com/en/) [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Rust](https://img.shields.io/badge/Rust-blue?logo=rust)](https://www.rust-lang.org/learn) [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/) [![Java](https://img.shields.io/badge/Java-2d81ad?style=flat&logo=java&logoColor=white)](https://www.java.com/en/) [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
   
 - Frontend : <br />
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)  [![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
   
-- Backend : <br />
-  [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Django](https://img.shields.io/badge/Django-0b4523?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com) 
+- Backend : <br /> 
+  [![Django](https://img.shields.io/badge/Node.js-gray?logo=node.js)](https://nodejs.org/en) [![Django](https://img.shields.io/badge/Django-0b4523?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
   
 - OS, IDE & Tools : <br />
-  [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-grey?style=flat&logo=sublime-text&logoColor=eb9009)](https://www.sublimetext.com/3) [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-grey?style=flat&logo=Jupyter&logoColor=orange)](https://jupyter.org/) [![Xampp](https://img.shields.io/badge/Xampp-orange?style=flat&logo=Xampp&logoColor=white)](https://www.apachefriends.org/index.html) [![Windows](https://img.shields.io/badge/Windows-blue?style=flat&logo=Windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-grey?style=flat&logo=Jupyter&logoColor=orange)](https://jupyter.org/) [![Xampp](https://img.shields.io/badge/Xampp-orange?style=flat&logo=Xampp&logoColor=white)](https://www.apachefriends.org/index.html) [![Windows](https://img.shields.io/badge/Windows-blue?style=flat&logo=Windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
 <br>
 
 
@@ -54,10 +51,10 @@ I am currently seeking opportunities where I can apply my problem-solving skills
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=simran2104&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="simran2104" /></p>
 </details>
-<details>
+<!-- <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simran2104&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-</details>
+</details> -->
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/simran2104"><img src="https://github-profile-trophy.vercel.app/?username=simran2104&margin-w=5&theme=radical" alt="simran2104" /></a> </p>
