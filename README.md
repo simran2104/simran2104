@@ -1,4 +1,4 @@
-<h1 align="center">Simran Dhiman <br>
+<h1 align="center">Simran Dhiman (シムラン・ディマン)<br>
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a></h1>
 <!-- <p align="center">
