@@ -1,4 +1,5 @@
-<h1 align="center">Simran Dhiman (シムラン・ディマン)<br>
+<h1 align="center">Simran Dhiman<br>
+  (シムラン・ディマン)<br>
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a></h1>
 <!-- <p align="center">
@@ -8,15 +9,21 @@
 
 ## 👩 About me:
 <p>
-  I am a fast learner and a passionate competitive coder with expertise in Python development and a keen interest in Machine Learning. My experience spans Algorithms, Data Structures, Web Development, and more. As a natural go-getter, my drive to learn and adapt has enabled me to expand my knowledge, gain diverse experiences, and build meaningful connections.
+  𝑲𝒐𝒏𝒏𝒊𝒄𝒉𝒊𝒘𝒂! 👋 (こんにちは – Hello!) <br>
 <br>
-With a solid technical foundation and a versatile skill set, I am confident in my ability to deliver innovative ideas and effective solutions. I hold myself to high standards, taking full responsibility for my actions and striving for excellence in every task. I enjoy experimenting with new technologies and exploring ways to push boundaries.
-<br>
-I am currently seeking opportunities where I can apply my problem-solving skills and logical thinking to tackle real-world challenges. Outside of work, I enjoy engaging in meaningful conversations over coffee or relaxing with a good series on YouTube.
+💡 Currently, I’m a 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝒂𝒕 𝒀𝒂𝒎𝒂𝒉𝒂, where I design and develop systems that enhance performance, observability, and efficiency. I thrive on solving challenges—whether it's optimizing API response times, improving real-time monitoring systems, or integrating AI-powered solutions.
+
+💻 𝗪𝗵𝗮𝘁 𝗜’𝘃𝗲 𝗕𝘂𝗶𝗹𝘁 & 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗱: <br>
+🚀 Developed a high-performance application monitoring system using Rust & RabbitMQ, reducing deployment time from 30 minutes to 2 minutes.<br>
+📊 Created a real-time analytics dashboard for Yamaha, improving data visualization and optimizing API speed by 81%.<br>
+🧠 Passionate about AI/ML—built an AI-powered disease prediction system and a sign language recognition model using deep learning.<br>
+🎯 Developed a real-time motion detection system for online exam proctoring as part of Microsoft Engage’21.<br>
+🏆 Ranked Top 10 out of 8,700+ in Coderita 2.0 (GeeksforGeeks) and Finalist at Smart India Hackathon 2020.<br>
+📜 Certified & Published: Oracle Certified, Google IT Automation with Python, and AI research paper published in IJIRT.
 </p><br>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 Full Stack Development - JavaScript(Node.js) & Python(Django)
+<p>🔸 Full Stack Development - JavaScript(Node.js), Java & Python(Django)
   <br>🔸 Machine Learning
   <br>🔸 Rust Development
 <p>
