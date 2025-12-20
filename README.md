@@ -11,7 +11,7 @@
 <p>
   𝑲𝒐𝒏𝒏𝒊𝒄𝒉𝒊𝒘𝒂! 👋 (こんにちは – Hello!) <br>
 <br>
-💡 Currently, I’m a 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝒂𝒕 𝒀𝒂𝒎𝒂𝒉𝒂, where I design and develop systems that enhance performance, observability, and efficiency. I thrive on solving challenges—whether it's optimizing API response times, improving real-time monitoring systems, or integrating AI-powered solutions.
+💡 Currently, I’m a 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 II 𝒂𝒕 KlearNow.AI, where I design and develop systems that enhance performance, observability, and efficiency. I thrive on solving challenges—whether it's optimizing API response times, improving real-time monitoring systems, or integrating AI-powered solutions.
 
 💻 𝗪𝗵𝗮𝘁 𝗜’𝘃𝗲 𝗕𝘂𝗶𝗹𝘁 & 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗱: <br>
 🚀 Developed a high-performance application monitoring system using Rust & RabbitMQ, reducing deployment time from 30 minutes to 2 minutes.<br>
