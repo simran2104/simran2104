@@ -1,5 +1,5 @@
 <h1 align="center">Simran<br>  <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></h1>
-  <h4 align="center"><b>Master’s Student in Data Science | Software Engineer | Ex-KlearNow.AI • Ex-Yamaha • Ex-RedHat | Exploring AI & Data Science</b></h4>
+  <h4 align="center"><b>Software Engineer | Exploring AI & Data Science</b></h4>
    
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50">
@@ -28,19 +28,44 @@ I enjoy solving complex engineering challenges, designing high-performance softw
 </p>
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
-- 💻 Programming Languages: <br>
-  [![Java](https://img.shields.io/badge/Java-2d81ad?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-  [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-  [![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+- **🗄️ Databases:**
+  
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-- 🎨 Frontend: <br>
+- **🎨 Frontend:**
+  
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
   [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
   [![AJAX](https://img.shields.io/badge/AJAX-00599C?style=flat)](https://developer.mozilla.org/docs/Web/Guide/AJAX)
 
-- ⚙️ Backend: <br>
+- **💻 Programming Languages:**
+  
+  [![Java](https://img.shields.io/badge/Java-2d81ad?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+  [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+  [![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+- **☁️ Cloud & DevOps:**
+  
+  [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+
+- **🛠️ Tools:**
+
+  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+  [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+  [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+  [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+  [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+- **⚙️ Backend:**
+  
   [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
   [![Micronaut](https://img.shields.io/badge/Micronaut-1E88E5?style=flat&logo=micronaut&logoColor=white)](https://micronaut.io/)
   [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -51,50 +76,30 @@ I enjoy solving complex engineering challenges, designing high-performance softw
   [![REST API](https://img.shields.io/badge/REST_API-009688?style=flat)](https://restfulapi.net/)
   [![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/docs/Web/API/WebSockets_API)
 
-- 🗄️ Databases: <br>
-
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-- ☁️ Cloud & DevOps: <br>
-
-  [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-  [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-
-- 🛠️ Tools: <br>
-  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
-  [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-  [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-  [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
-  [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
-
 <h2>ℹ️ &nbsp;Github Info</h2>
-<details>	
+<!-- <details>	 -->
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran2104&theme=github_dark" alt="simran2104" align = "center"/></p>
-</details>
+<!-- </details> -->
 <!-- <details>	
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=simran2104&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="simran2104" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=simran2104&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="simran2104" align = "center"/></p>
 </details> -->
-<details>
+<!-- <details> -->
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=simran2104&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="simran2104" /></p>
-</details>
+<!-- </details> -->
 <!-- <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simran2104&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details> -->
-<details>   
+<!-- <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/simran2104"><img src="https://github-profile-trophy.vercel.app/?username=simran2104&margin-w=5&theme=radical" alt="simran2104" /></a> </p>
-</details>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simran2104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+</p>
+<!-- </details> -->
 <br>
  
  ## 🙋‍♂️ Connect with me:
