@@ -1,44 +1,76 @@
-<h1 align="center">Simran Dhiman<br>
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a></h1>
+<h1 align="center">Simran<br>  <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></h1>
+  <h4 align="center"><b>Master’s Student in Data Science | Software Engineer | Ex-KlearNow.AI • Ex-Yamaha • Ex-RedHat | Exploring AI & Data Science</b></h4>
+   
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50">
 </p> -->
 
 
-## 👩 About me:
+<h3> 👩 About me: </h3>
 <p>
-💡 Currently, I’m a 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 II 𝒂𝒕 KlearNow.AI, where I design and develop systems that enhance performance, observability, and efficiency. I thrive on solving challenges, whether it's optimizing API response times, improving real-time monitoring systems, or integrating AI-powered solutions.
+💡 Currently pursuing a Master of Information Technology (Data Science) at Whitecliffe College, New Zealand, with 4 years of experience building scalable backend systems and distributed applications.
 
-💻 𝗪𝗵𝗮𝘁 𝗜’𝘃𝗲 𝗕𝘂𝗶𝗹𝘁 & 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗱: <br>
-🚀 Developed a high-performance application monitoring system using Rust & RabbitMQ, reducing deployment time from 30 minutes to 2 minutes.<br>
-📊 Created a real-time analytics dashboard for Yamaha, improving data visualization and optimizing API speed by 81%.<br>
-🧠 Passionate about AI/ML built an AI-powered disease prediction system and a sign language recognition model using deep learning.<br>
-🎯 Developed a real-time motion detection system for online exam proctoring as part of Microsoft Engage’21.<br>
-🏆 Ranked Top 10 out of 8,700+ in Coderita 2.0 (GeeksforGeeks) and Finalist at Smart India Hackathon 2020.<br>
-📜 Certified & Published: Oracle Certified, Google IT Automation with Python, and AI research paper published in IJIRT.
+I enjoy solving complex engineering challenges, designing high-performance software, and continuously learning emerging technologies. My experience spans Java, Spring Boot, Microservices, Kafka, RabbitMQ, AWS, and Distributed Systems, with a passion for building reliable and scalable solutions.
+
+<h4> 💻 Key Highlights & Achievements: </h4>
+💼 4 years of Software Engineering experience <br>
+🌐 Ex-Software Engineer II at KlearNow.AI<br>
+🤖 Ex-Software Engineer at Yamaha Motor Solutions<br>
+☁️ Ex-Software Engineer Intern at Red Hat<br>
+☕ Oracle Certified Java SE 8 Programmer<br>
+👩‍💻 Technical Lead – Google Developer Student Clubs<br>
+💡 Microsoft Engage'21 Participant<br>
+🌟 North India Ambassador – Women Techmakers (Google)<br>
+🏆 Technical Star Award recipient at Yamaha (Multiple Times)<br>
+🥈 Smart India Hackathon 2020 Finalist<br>
+🎯 Top 10 – Coderita 2.0 National Coding Competition
+
 </p>
-
-<!-- <h2>🥇 Specialised in:</h2>
-<p>🔸 Full Stack Development - JavaScript(Node.js), Java & Python(Django)
-  <br>🔸 Machine Learning
-  <br>🔸 Rust Development
-<p> -->
-<br>
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
-- Programming languages : <br />
- [![Java](https://img.shields.io/badge/Java-2d81ad?style=flat&logo=java&logoColor=white)](https://www.java.com/en/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/) [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
-  
-- Frontend : <br />
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)  [![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-  
-- Backend : <br /> 
-  [![Django](https://img.shields.io/badge/Node.js-gray?logo=node.js)](https://nodejs.org/en) [![Django](https://img.shields.io/badge/Django-0b4523?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-  
-- OS, IDE & Tools : <br />
-  [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-grey?style=flat&logo=Jupyter&logoColor=orange)](https://jupyter.org/) [![Xampp](https://img.shields.io/badge/Xampp-orange?style=flat&logo=Xampp&logoColor=white)](https://www.apachefriends.org/index.html) [![Windows](https://img.shields.io/badge/Windows-blue?style=flat&logo=Windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
-<br>
+- 💻 Programming Languages: <br>
+  [![Java](https://img.shields.io/badge/Java-2d81ad?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+  [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+  [![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+- 🎨 Frontend: <br>
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+  [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
+  [![AJAX](https://img.shields.io/badge/AJAX-00599C?style=flat)](https://developer.mozilla.org/docs/Web/Guide/AJAX)
+
+- ⚙️ Backend: <br>
+  [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+  [![Micronaut](https://img.shields.io/badge/Micronaut-1E88E5?style=flat&logo=micronaut&logoColor=white)](https://micronaut.io/)
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+  [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+  [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+  [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+  [![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat)](https://grpc.io/)
+  [![REST API](https://img.shields.io/badge/REST_API-009688?style=flat)](https://restfulapi.net/)
+  [![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/docs/Web/API/WebSockets_API)
+
+- 🗄️ Databases: <br>
+
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+- ☁️ Cloud & DevOps: <br>
+
+  [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+
+- 🛠️ Tools: <br>
+  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+  [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+  [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+  [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+  [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
