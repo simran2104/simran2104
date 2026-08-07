@@ -1,4 +1,4 @@
-<h1 align="center">Simran<br>  <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></h1>
+<h1 align="center">Simran Dhiman<br>  <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></h1>
   <h4 align="center"><b>Software Engineer | Exploring AI & Data Science</b></h4>
    
 <!-- <p align="center">
