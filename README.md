@@ -24,8 +24,9 @@ I enjoy solving complex engineering challenges, designing high-performance softw
 🏆 Technical Star Award recipient at Yamaha (Multiple Times)<br>
 🥈 Smart India Hackathon 2020 Finalist<br>
 🎯 Top 10 – Coderita 2.0 National Coding Competition
-
 </p>
+
+
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 - **🗄️ Databases:**
@@ -75,32 +76,26 @@ I enjoy solving complex engineering challenges, designing high-performance softw
   [![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat)](https://grpc.io/)
   [![REST API](https://img.shields.io/badge/REST_API-009688?style=flat)](https://restfulapi.net/)
   [![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/docs/Web/API/WebSockets_API)
+  <br><br>
 
-<h2>ℹ️ &nbsp;Github Info</h2>
-<!-- <details>	 -->
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran2104&theme=github_dark" alt="simran2104" align = "center"/></p>
-<!-- </details> -->
-<!-- <details>	
-  <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=simran2104&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="simran2104" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=simran2104&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="simran2104" align = "center"/></p>
-</details> -->
-<!-- <details> -->
- <summary><b>🔥 Github Streaks</b></summary>
+<h2>📊 GitHub Profile Summary</h2>
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran2104&theme=tokyonight" />
+</p> -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=simran2104&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="simran2104" /></p>
-<!-- </details> -->
-<!-- <details>
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simran2104&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-</details> -->
-<!-- <details>    -->
- <summary><b>🏆 Github Achievements</b></summary>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simran2104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simran2104&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simran2104&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simran2104&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simran2104&theme=tokyonight&utcOffset=12" />
+</p>
+
 <!-- </details> -->
-<br>
  
  ## 🙋‍♂️ Connect with me:
 <!-- Badges template - https://github.com/badges/shields -->
@@ -109,7 +104,7 @@ I enjoy solving complex engineering challenges, designing high-performance softw
   <!-- <a href="https://twitter.com/simran_2104"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
   <a href="mailto:simrandhiman5808@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/-gmail-f53c20?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- <a href="https://www.codechef.com/users/simran_2104"><img alt="codechef" title="codechef" src="https://img.shields.io/badge/-codechef-935F31?style=for-the-badge&logo=codechef&logoColor=white"/></a> -->
-  <a href="https://www.hackerrank.com/simran2104"><img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/-hackerrank-0ec950?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <!-- <a href="https://www.hackerrank.com/simran2104"><img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/-hackerrank-0ec950?style=for-the-badge&logo=hackerrank&logoColor=white"/></a> -->
 </p>
 
  <hr>
