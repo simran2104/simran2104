@@ -72,34 +72,34 @@ I enjoy solving complex engineering challenges, designing high-performance softw
   [![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/docs/Web/API/WebSockets_API)
   <br><br>
 
-<h2>📊 GitHub Profile Summary</h2>
+<!-- <h2>📊 GitHub Profile Summary</h2>
 
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simran2104&theme=tokyonight" />
 </p> -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=simran2104&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="simran2104" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=simran2104&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="simran2104" /></p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simran2104&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simran2104&theme=tokyonight" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simran2104&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simran2104&theme=tokyonight&utcOffset=12" />
-</p>
+</p> --> 
 
 <!-- </details> -->
  
- ## 🙋‍♂️ Connect with me:
+<!-- <h2>🙋‍♂️ Connect with me:</h2>  -->
 <!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/simran2104/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- <p align="center"> -->
+  <!-- <a href="https://www.linkedin.com/in/simran2104/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
   <!-- <a href="https://twitter.com/simran_2104"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
-  <a href="mailto:simrandhiman5808@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/-gmail-f53c20?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- <a href="mailto:simrandhiman5808@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/-gmail-f53c20?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
   <!-- <a href="https://www.codechef.com/users/simran_2104"><img alt="codechef" title="codechef" src="https://img.shields.io/badge/-codechef-935F31?style=for-the-badge&logo=codechef&logoColor=white"/></a> -->
   <!-- <a href="https://www.hackerrank.com/simran2104"><img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/-hackerrank-0ec950?style=for-the-badge&logo=hackerrank&logoColor=white"/></a> -->
-</p>
+<!-- </p> -->
 
  <hr>
 <p align="center">
