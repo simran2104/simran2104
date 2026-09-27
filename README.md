@@ -10,8 +10,6 @@
   <img alt="GitHub Views" title="GitHub Views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/>
 </p>
 
-<br>
-
 <h2>👩‍💻 About Me</h2>
 
 I’m a **Software Engineer** interested in building scalable software systems and exploring how AI and Machine Learning can be applied to real-world engineering problems.
